@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 # Jackson Souza
 
-Olá pessoal sejam bem vindo ao meu github, aqui sempre estarei commitando os desafios que irei enfrentar no meu dia a dia em busca de aperfeiçoar minhas habilidades na programação, tenho
-um grande sonho de me tornar um desenvolvedor profissional, ainda busco minha primeira oportunidade no mercado e enquanto ela não chega vamos aumentando nosso conhecimento e se especializando no desenvolvimento backend, sintam-se avontade para me seguir nas redes sociais abaixo.
+Olá pessoal sejam bem vindos ao meu github, aqui sempre estarei commitando os desafios que irei enfrentar no meu dia a dia em busca de aperfeiçoar minhas habilidades na programação, tenho um grande sonho de me tornar um desenvolvedor profissional, ainda busco minha primeira oportunidade no mercado e enquanto ela não chega vamos aumentando nosso conhecimento e se especializando no desenvolvimento backend, sintam-se avontade para me seguir nas redes sociais abaixo.
 
 ### “Sucesso é o acúmulo de pequenos esforços, repetidos dia a dia.” - *Robert Collier*.
 
