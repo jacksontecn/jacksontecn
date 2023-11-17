@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Jacksontecn
+# Jackson Souza
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00008B?style=for-the-badge&logo=linkedin&logoColor=E76A8)](https://www.linkedin.com/in/jackson-souza-4107a1b0/) 
