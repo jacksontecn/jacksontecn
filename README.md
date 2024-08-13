@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-00008B?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-00008B?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-00008B?style=for-the-badge&logo=css3&logoColor=64CE4)
-![C#](https://img.shields.io/badge/csharp-00008B?style=for-the-badge&logo=csharp)
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jacksontecn&bg_color=00008B&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
