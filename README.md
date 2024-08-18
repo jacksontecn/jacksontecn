@@ -31,6 +31,3 @@ Here are some ideas to get you started:
 
 ## ✔🟢 GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacksontecn&theme=transparent&bg_color=00008B&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
-
-## 🔺 Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jacksontecn&repo=dio-lab-open-source&bg_color=00008B&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jacksontecn/dio-lab-open-source)
