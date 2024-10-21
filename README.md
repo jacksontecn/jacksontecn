@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 📚📕 Habilidades
 ![Java](https://img.shields.io/badge/Java-00008B?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/csharp-00008B?style=for-the-badge&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00008B?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-00008B?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-00008B?style=for-the-badge&logo=css3&logoColor=64CE4)
